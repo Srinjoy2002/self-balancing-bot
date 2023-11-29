@@ -1,1 +1,0 @@
-Self Balancing Robot using Arduino by Circuitdigest on Thingiverse: https://www.thingiverse.com/thing:3052026
