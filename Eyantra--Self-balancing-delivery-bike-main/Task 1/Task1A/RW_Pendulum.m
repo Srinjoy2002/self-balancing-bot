@@ -14,9 +14,6 @@ pkg load image;
 ##*  Version: 2.0.0  
 ##*  Date: September 20, 2022
 ##*
-##*  Team ID :DB_2009
-##*  Team Leader Name:Shivam Sharma 
-##*  Team Member Name ASHHER ALI, SAURABH PHULPAGAR, DHRUV JOSHI
 ##*
 ##*  
 ##*  Author: e-Yantra Project, Department of Computer Science
